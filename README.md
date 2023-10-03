@@ -1,1 +1,1 @@
-# PSU---Mask-detection
+Program for face mask detection.
